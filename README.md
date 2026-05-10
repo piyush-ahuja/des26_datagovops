@@ -2,7 +2,7 @@
 
 **Governing GenAI: DataGovOps When AI Is Your Biggest Data Consumer**
 
-Presented at [Data Engineering Summit 2026](https://des.analyticsindiamag.com/) · Bangalore
+Presented at [Data Engineering Summit 2026](https://des.analyticsindiamag.com/agenda/) · Bangalore
 
 ---
 
@@ -62,7 +62,7 @@ Open [`DataGovOps_Canvas.html`](./DataGovOps_Canvas.html) in a browser to use it
 
 **Piyush Ahuja** · Director, Tata Digital
 
-[LinkedIn](https://www.linkedin.com/in/piyushahuja/) · [GitHub](https://github.com/piyushahuja)
+[LinkedIn](https://www.linkedin.com/in/piyushahuja/) · [GitHub](https://github.com/piyush-ahuja)
 
 ---
 
