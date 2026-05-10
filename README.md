@@ -36,7 +36,7 @@ Four engineering moves. Four verbs.
 | [`DataGovOps_Canvas.html`](./DataGovOps_Canvas.html) | Interactive DataGovOps Canvas — a diagnostic tool for assessing AI governance maturity across the four moves. Open in any browser. Print-optimized for workshops. |
 | [`datagovops-canvas.skill`](./datagovops-canvas.skill) | Claude skill that guides you through populating a DataGovOps Canvas via adaptive conversation. Install in any Claude project. |
 | [`DataGovOps_SKILL_MD.md`](./DataGovOps_SKILL_MD.md) | The skill definition — readable version of the conversation architecture, question bank, and output specs |
-| `DataGovOps.pptx` | Final presentation deck |
+| [`DES2026_DataGovOps.pptx`](./DES2026_DataGovOps.pptx) | Final presentation deck |
 
 ---
 
